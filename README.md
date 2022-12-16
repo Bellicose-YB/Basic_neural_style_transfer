@@ -11,3 +11,8 @@ Style transfer relies on separating the content and style of an image. Given one
 
 * objects and their arrangement are similar to that of the content image
 * style, colors, and textures are similar to that of the style image
+
+[cat](https://github.com/Bellicose-YB/Basic_neural_style_transfer/blob/main/basic_neural_style_transfer/outputs/output.png)
+[alt text](image_url)
+[alt text](image_url)
+[alt text](image_url)
