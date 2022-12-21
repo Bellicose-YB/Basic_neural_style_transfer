@@ -13,3 +13,7 @@ Style transfer relies on separating the content and style of an image. Given one
 * style, colors, and textures are similar to that of the style image
 
 ![cat](https://github.com/Bellicose-YB/Basic_neural_style_transfer/blob/main/basic_neural_style_transfer/outputs/output.png?raw=true)
+
+![human](https://github.com/Bellicose-YB/Basic_neural_style_transfer/blob/main/basic_neural_style_transfer/outputs/janella_mosaic.png)
+
+![taj-mahal](https://github.com/Bellicose-YB/Basic_neural_style_transfer/blob/main/basic_neural_style_transfer/outputs/taj_mahal_mosaic.png)
